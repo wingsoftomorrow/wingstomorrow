@@ -1,0 +1,79 @@
+baseURL = 'http://wings-of-tomorrow.org/'
+languageCode = 'en-us'
+title = 'Wings of Tomorrow'
+theme = "blist"
+
+DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = true
+[languages]
+  [languages.en]
+    contentDir = "content" #English
+    weight = 1
+    languageName = "English"
+    [languages.en.params]
+      introTitle = "Fly with us"
+      introSubtitle = "Stick monkeys, unite!"
+      introPhoto = "/eagleimage.jpg"
+      logo = "/eagleimage.jpg"
+
+    [[languages.en.menu.main]]
+        name = "About"
+        url = "about"
+		weight = 1
+		
+	[[languages.en.menu.main]]
+	name = "Team"
+	url = "team"
+	weight = 2
+
+    [[languages.en.menu.main]]
+	name = "Blog"
+	url = "blog"
+	weight = 3
+	
+[params]
+  # Enable the darkmode toggle in header
+  darkModeToggle = false
+  
+  # Enable search in header
+  enableSearch = false
+
+  # Custom copyright - optional
+  ### copyright = "Copyright © 2022 - Miguel Moravec · All rights reserved"
+  ### favicon = "/batman3.png"
+
+  # Color for the intro details and social links block, not applicable for dark mode
+  # Supported values: Any color from TailwindCSS default colors
+  # Reference: https://tailwindcss.com/docs/customizing-colors
+  ascentColor = "bg-blue-100"
+
+  # The page bundle that is shown on the front page
+  frontBundle = "blog"
+
+[params.homepage.social]
+  # Global params xommon for both languages
+  title = "Let's connect"
+  description = "Check out my social media"
+  twitter = "https://twitter.com/MiguelMoravec"
+  linkedin = "https://www.linkedin.com/in/miguel-moravec-321a75ab/"
+  github = "https://github.com/miguelmoravec"
+  instagram = "https://www.instagram.com/mi6uelito/"
+
+
+[[menu.main]]
+  name = "About"
+  url = "/blog"
+
+[build]
+  writeStats = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
