@@ -11,6 +11,7 @@
       "footer",
       "h1",
       "h2",
+      "h3",
       "h5",
       "head",
       "header",
@@ -146,10 +147,25 @@
     ],
     "ids": [
       "a",
+      "board-member",
+      "board-member-1",
+      "board-member-2",
+      "captain-david-eagle-lawson-ret",
+      "chairman-of-the-board",
+      "chief-warrant-officer-3-michael-tech-ramirez-ret",
+      "commander-lisa-sky-thompson-ret",
+      "commander-sarah-ace-mitchell-ret",
       "heres-where-you-can-contact-us",
-      "miguel-in-the-news-2021---2022",
+      "lieutenant-andrew-b-coen",
+      "lieutenant-emily-navigator-davis",
+      "our-mission",
+      "our-values",
+      "our-vision",
+      "secretary",
       "today-we-launched",
-      "websites-by-miguel"
+      "treasurer",
+      "vice-chairman",
+      "welcome-to-wings-of-tomorrow"
     ]
   }
 }

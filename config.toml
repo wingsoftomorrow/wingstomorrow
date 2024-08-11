@@ -11,10 +11,10 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Fly with us"
-      introSubtitle = "Stick monkeys, unite!"
-      introPhoto = "/eagleimage.jpg"
-      logo = "/eagleimage.jpg"
+      introTitle = "Empowering the next generation"
+      introSubtitle = "Aviation through Mentoship"
+      introPhoto = "/logo.jpg"
+      logo = "/logo.jpg"
 
     [[languages.en.menu.main]]
         name = "About"
@@ -27,9 +27,19 @@ DefaultContentLanguageInSubdir = true
 	weight = 2
 
     [[languages.en.menu.main]]
-	name = "Blog"
+	name = "Get Involved"
 	url = "blog"
 	weight = 3
+	
+	[[languages.en.menu.main]]
+	name = "Donate"
+	url = "blog"
+	weight = 4
+		
+	[[languages.en.menu.main]]
+	name = "Blog"
+	url = "blog"
+	weight = 45
 	
 [params]
   # Enable the darkmode toggle in header
@@ -39,7 +49,7 @@ DefaultContentLanguageInSubdir = true
   enableSearch = false
 
   # Custom copyright - optional
-  ### copyright = "Copyright © 2022 - Miguel Moravec · All rights reserved"
+  ### copyright = "Copyright © 2024 - Wings of Tomorrow · All rights reserved"
   ### favicon = "/batman3.png"
 
   # Color for the intro details and social links block, not applicable for dark mode

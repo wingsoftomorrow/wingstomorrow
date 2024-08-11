@@ -1,49 +1,36 @@
 ---
-author: Miguel Moravec
-title: About Me
-date: 2021-07-15
+author: Wings of Tomorrow
+title: About Us
+date: 2024-07-15
 description:
-keywords: ["about-us", "about-hugo", "contact"]
+keywords: ["about-us", "about", "contact"]
 type: about
 ---
-Hey! I'm Miguel, and I'm a PhD student in the department of Civil and Environmental Engineering at Vanderbilt University. I'm also the [President](https://vanderbilthustler.com/47776/featured/graduate-student-council-elects-new-executive-board/) of the Graduate Student Body and the co-founder of [Dores Divest](https://divestvanderbilt.com/), a campus sustainable investments campaign. I grew up sailing in Annapolis, Maryland, but am now pleased to call Nashville home.
 
-![Miguel](/miguel.PNG)
+## Welcome to Wings of Tomorrow
+We're a non-profit organization founded by a passionate group of naval aviators with a shared vision: to inspire, educate, and mentor the next generation of aviation professionals.
 
-I have a diverse [work history](/en/Moravec_CV_2022.pdf) in public service, and I'd like to continue to employ myself in the pursuit of a more equitable world. I'm especially interested in issues of climate justice and how we can make the most compelling cases to quickly decarbonize our society. 
+![Group Photo](/andy_hangar.jpg)
 
-This site is an online portfolio of some of my works, please explore and enjoy!
+At Wings of Tomorrow, we believe that the sky is not the limit—it’s just the beginning. Our mission is to provide young people with the knowledge, resources, and guidance they need to pursue successful careers in aviation, whether as pilots, engineers, air traffic controllers, or any of the other vital roles within the industry.
 
----
+Our founders, all former naval aviators, bring a wealth of experience and a deep commitment to service. They know firsthand the dedication, discipline, and determination it takes to succeed in aviation. Through our mentoring programs, workshops, and scholarships, we aim to pass on these values to the youth we serve, helping them navigate the challenges and seize the opportunities that a career in aviation offers.
 
-## Websites by Miguel:
+![Mentorship Moment](/mentorship_moment.jpg)
 
-- [divestvanderbilt.com](https://divestvanderbilt.com/)
-- [epa.gov/chemical-research](https://www.epa.gov/chemical-research)
-- [vanderbilt.edu/visor](https://alo.ees.vanderbilt.edu/visor/)
-- [fossilfree5.org](https://fossilfree5.org/)
-- [vanderbilt.edu/sailing/](https://studentorg.vanderbilt.edu/sailing/)
+We are committed to reaching out to diverse communities, ensuring that every young person with a dream of flying or working in aviation has access to the support and resources they need to make that dream a reality. By partnering with schools, community organizations, and industry leaders, we strive to create a pathway for success for all our mentees.
 
-Need a website like one of the above? [Contact me](mailto:miguel.moravec@vanderbilt.edu) to make an inquiry.
+Join us on this journey as we help lift the next generation to new heights, empowering them to soar in the world of aviation.
 
----
-## Miguel in the News 2021 - 2022:
-![In the headlines](/wapo_wide.jpg)
+## Our Mission: 
+To mentor and inspire youth to pursue careers in aviation by providing access to education, resources, and professional guidance.
 
-- [The Washington Post](https://www.washingtonpost.com/education/2022/02/16/college-fossil-fuel-divest-legal-action/)
-	- Student climate activists... file legal complaints to compel divestment
-- [CNN](https://www.cnn.com/2022/04/09/us/college-students-fossil-fuel-legal-action-climate/index.html)
-	- Frustrated and anxious, climate advocates are turning to legal action...
-- [Vanderbilt University News](https://news.vanderbilt.edu/2021/06/17/nashville-suffered-less-than-regional-cities-throughout-colonial-pipeline-shutdown-due-to-stronger-waterborne-petroleum-access/")
-	- Nashville suffered less than regional cities throughout Colonial Pipeline shutdown due to stronger waterborne petroleum access.
-- [The Waterways Journal](https://www.waterwaysjournal.net/2021/06/25/pipeline-shutdown-research-shows-importance-of-barging/)
-	- Pipeline Shutdown Research Shows Importance Of Barging
-- [Vanderbilt Engineering News](https://engineering.vanderbilt.edu/news/2022/phd-student-mentors-undergrads-on-week-long-stemseas-expedition/)
-	- PhD student mentors undergrads on week-long STEMSEAS expedition
-- [Stanford Daily](https://stanforddaily.com/2022/02/16/climate-defense-project-and-fossil-free-stanford-file-legal-complaint-against-stanford/)
-	- Climate Defense Project... file legal complaint against Stanford
-- [Vanderbilt Hustler](https://vanderbilthustler.com/44409/featured/of-course-al-gore-endorses-vanderbilt-divesting-from-fossil-fuels/)
-	- ‘Of course’- Al Gore endorses Vanderbilt divesting from fossil fuels
+## Our Vision: 
+A future where the skies are filled with diverse and talented individuals who are passionate about aviation and committed to excellence.
+
+## Our Values: 
+Integrity, Service, Dedication, Inclusion, and Innovation.
+
 
 
 
