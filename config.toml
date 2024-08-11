@@ -28,7 +28,7 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.en.menu.main]]
 	name = "Get Involved"
-	url = "blog"
+	url = "https://forms.gle/kZbvfH2sSf6EMg9X9"
 	weight = 3
 	
 	[[languages.en.menu.main]]
@@ -50,7 +50,7 @@ DefaultContentLanguageInSubdir = true
 
   # Custom copyright - optional
   ### copyright = "Copyright © 2024 - Wings of Tomorrow · All rights reserved"
-  ### favicon = "/batman3.png"
+  ### favicon = "/logo.jpg"
 
   # Color for the intro details and social links block, not applicable for dark mode
   # Supported values: Any color from TailwindCSS default colors
@@ -62,17 +62,14 @@ DefaultContentLanguageInSubdir = true
 
 [params.homepage.social]
   # Global params xommon for both languages
-  title = "Let's connect"
-  description = "Check out my social media"
-  twitter = "https://twitter.com/MiguelMoravec"
-  linkedin = "https://www.linkedin.com/in/miguel-moravec-321a75ab/"
-  github = "https://github.com/miguelmoravec"
-  instagram = "https://www.instagram.com/mi6uelito/"
+  title = "Learn more"
+  description = "Click on the links above to see how you can get involved"
+
 
 
 [[menu.main]]
   name = "About"
-  url = "/blog"
+  url = "about"
 
 [build]
   writeStats = true

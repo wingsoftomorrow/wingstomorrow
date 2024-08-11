@@ -14,7 +14,9 @@ At Wings of Tomorrow, our Board of Directors is composed of distinguished naval 
 
 ![Andrew Coen](/andy_talking.jpg)
 
-With over 30 years of service in the U.S. Navy, Captain Harrison has led countless missions and mentored many young aviators throughout his career. After retiring from active duty, Jim dedicated his time to giving back to the community, focusing on inspiring youth to explore careers in aviation. As the Chairman of the Board, he ensures that Wings of Tomorrow remains true to its mission and vision, guiding the organization with his experience and strategic insight.
+Andy Coen is from the small Gold Rush town of Placerville, CA. He graduated from the US Naval Academy in 2017 with a B.S. in Ocean Engineering as a Burke Scholar. He was the top graduate in flight school and earned his Wings of Gold as a Naval Flight Officer in 2019. Since then, he has led aviation teams in fifteen countries throughout the Arctic Circle, the Middle East, Africa, and Central America onboard the Navy’s premier intelligence aircraft, the P-8A Poseidon. 
+
+Personal mentorship has been pivotal throughout Andy’s career. His mentors empowered him to break out of his rural hometown to lead the nation’s best and  brightest airmen to accomplish distinguished aviation missions around the world. In 2024, Andy was inspired to give back to the aviation community by empowering the next generation of aviators through the power of mentorship. 
 
 ## Commander Sarah "Ace" Mitchell (Ret.)
 ### Vice Chairman
