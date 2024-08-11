@@ -8,6 +8,26 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://wings-of-tomorrow.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About Us</title>
+      <link>https://wings-of-tomorrow.org/about/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://wings-of-tomorrow.org/about/</guid>
+      <description>Welcome to Wings of Tomorrow We&amp;rsquo;re a non-profit organization founded by a passionate group of naval aviators with a shared vision: to inspire, educate, and mentor the next generation of aviation professionals.
+At Wings of Tomorrow, we believe that the sky is not the limit—it’s just the beginning. Our mission is to provide young people with the knowledge, resources, and guidance they need to pursue successful careers in aviation, whether as pilots, engineers, air traffic controllers, or any of the other vital roles within the industry.</description>
+    </item>
+    
+    <item>
+      <title>Our team</title>
+      <link>https://wings-of-tomorrow.org/team/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://wings-of-tomorrow.org/team/</guid>
+      <description>At Wings of Tomorrow, our Board of Directors is composed of distinguished naval aviators and industry professionals who bring a wealth of experience, passion, and leadership to our mission of mentoring the next generation of aviation professionals.
+Lieutenant Andrew B. Coen Chairman of the Board With over 30 years of service in the U.S. Navy, Captain Harrison has led countless missions and mentored many young aviators throughout his career. After retiring from active duty, Jim dedicated his time to giving back to the community, focusing on inspiring youth to explore careers in aviation.</description>
+    </item>
+    
+    <item>
       <title>Launch Press Release</title>
       <link>https://wings-of-tomorrow.org/blog/launch/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
@@ -25,25 +45,6 @@ I have a diverse work history in public service, and I&amp;rsquo;d like to conti
       <guid>https://wings-of-tomorrow.org/blog/origin-story/</guid>
       <description>Hey! I&amp;rsquo;m Miguel, and I&amp;rsquo;m a PhD student in the department of Civil and Environmental Engineering at Vanderbilt University. I&amp;rsquo;m also the President of the Graduate Student Body and the co-founder of Dores Divest, a campus sustainable investments campaign. I grew up sailing in Annapolis, Maryland, but am now pleased to call Nashville home.
 I have a diverse work history in public service, and I&amp;rsquo;d like to continue to employ myself in the pursuit of a more equitable world.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://wings-of-tomorrow.org/about/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://wings-of-tomorrow.org/about/</guid>
-      <description>Hey! I&amp;rsquo;m Miguel, and I&amp;rsquo;m a PhD student in the department of Civil and Environmental Engineering at Vanderbilt University. I&amp;rsquo;m also the President of the Graduate Student Body and the co-founder of Dores Divest, a campus sustainable investments campaign. I grew up sailing in Annapolis, Maryland, but am now pleased to call Nashville home.
-I have a diverse work history in public service, and I&amp;rsquo;d like to continue to employ myself in the pursuit of a more equitable world.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://wings-of-tomorrow.org/team/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://wings-of-tomorrow.org/team/</guid>
-      <description> Andrew Avery Haley Miguel Zach Yanni  </description>
     </item>
     
   </channel>
