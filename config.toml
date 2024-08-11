@@ -1,4 +1,4 @@
-baseURL = 'http://wings-of-tomorrow.org/'
+baseURL = 'https://wings-of-tomorrow.org'
 languageCode = 'en-us'
 title = 'Wings of Tomorrow'
 theme = "blist"
