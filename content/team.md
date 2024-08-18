@@ -10,43 +10,41 @@ type: about
 At Wings of Tomorrow, our Board of Directors is composed of distinguished naval aviators and industry professionals who bring a wealth of experience, passion, and leadership to our mission of mentoring the next generation of aviation professionals.
 
 ## Lieutenant Andrew B. Coen
-### Chairman of the Board
+### CEO
 
-![Andrew Coen](/andy_talking.jpg)
+![Andrew Coen](/andrew.jpg)
 
 Andy Coen is from the small Gold Rush town of Placerville, CA. He graduated from the US Naval Academy in 2017 with a B.S. in Ocean Engineering as a Burke Scholar. He was the top graduate in flight school and earned his Wings of Gold as a Naval Flight Officer in 2019. Since then, he has led aviation teams in fifteen countries throughout the Arctic Circle, the Middle East, Africa, and Central America onboard the Navy’s premier intelligence aircraft, the P-8A Poseidon. 
 
 Personal mentorship has been pivotal throughout Andy’s career. His mentors empowered him to break out of his rural hometown to lead the nation’s best and  brightest airmen to accomplish distinguished aviation missions around the world. In 2024, Andy was inspired to give back to the aviation community by empowering the next generation of aviators through the power of mentorship. 
 
-## Commander Sarah "Ace" Mitchell (Ret.)
-### Vice Chairman
-
-Commander Mitchell served as one of the Navy's top fighter pilots, breaking barriers as one of the first women to command an operational fighter squadron. Her commitment to mentoring young pilots, especially women and underrepresented groups in aviation, has been a cornerstone of her post-military career. At Wings of Tomorrow, Sarah brings her leadership and dedication to fostering diversity and inclusion within the aviation industry.
-
-##Lieutenant Commander Eric "Skipper" Johnson (Ret.)
-### Treasurer
-
-A naval aviator with a strong background in aviation logistics and finance, Lieutenant Commander Johnson has managed budgets and resources for some of the Navy’s most complex aviation operations. His expertise in financial management ensures that Wings of Tomorrow’s resources are effectively utilized to maximize our impact on the communities we serve. Eric’s passion for helping youth explore careers in aviation drives his work with the organization.
-
-## Lieutenant Emily "Navigator" Davis
-### Secretary
-
-Lieutenant Davis served as a naval flight officer, specializing in navigation and mission planning for airborne operations. Her meticulous attention to detail and strong organizational skills are key to her role as Secretary of Wings of Tomorrow. Emily’s commitment to mentorship extends beyond her military career, as she continues to inspire and guide young people interested in the technical and operational aspects of aviation.
-
-## Chief Warrant Officer 3 Michael "Tech" Ramirez (Ret.)
+## Lieutenant Avery Nwokike
 ### Board Member
 
-With a distinguished career as an aviation maintenance officer, Chief Warrant Officer Ramirez played a critical role in ensuring the safety and readiness of naval aircraft. His deep understanding of aviation mechanics and technology makes him an invaluable mentor to those interested in the technical side of aviation careers. Michael is passionate about providing hands-on learning opportunities for youth and helping them build the skills necessary for a successful career in aviation.
+![Avery Nwokike](/avery.PNG)
 
-## Commander Lisa "Sky" Thompson (Ret.)
+Avery is currently a Lieutenant in the United States Navy. As a Naval Aviator he is responsible for operational planning and have extensive operational experience. When I'm not flying I'm leading my fellow sailors to excellence, and working to improve upon our great Navy. 
+
+## Lieutenant Yanni Vrotsos
 ### Board Member
 
-Commander Thompson was a pioneer in naval aviation, serving as one of the first female pilots to fly combat missions. Her leadership and advocacy for women in aviation have earned her numerous accolades throughout her career. At Wings of Tomorrow, Lisa focuses on developing programs that encourage young women to pursue careers in aviation, breaking down barriers and opening doors to new opportunities.
+![Yanni Vrotsos](/yanni.PNG)
 
-## Captain David "Eagle" Lawson (Ret.)
+Yanni Vrotsos is from Titusville, Florida. He graduated from the US Naval Academy in 2017 with a B.S. in Ocean Engineering. He earned his Wings of Gold as a Pilot in April of 2019 and was stationed out of NAS Whidbey Island for his Sea Tour flying the P-8A Poseidon. He has nearly 100 hours of Aircraft Commander time and completed deployments and detachments all over the world, including various counties in Europe, the Middle East, and Africa. He is currently on his Shore Tour stationed in Washington, DC and enthusiastically joined Wings of Tomorrow in order to provide valuable insight that he wished he received before Flight School. 
+
+## Lieutenant Changdae Hahm
 ### Board Member
 
-Captain Lawson's career in naval aviation included commanding an aircraft carrier and overseeing complex flight operations. His strategic vision and operational expertise are crucial to Wings of Tomorrow's growth and success. David is committed to mentoring future aviation leaders, helping them navigate the challenges of the industry and preparing them for the dynamic world of aviation.
+![Changdae Hahm](/changdae.PNG)
+
+Lieutenant Changdae “Big Bird” Hahm, is a native of Boulder, Colorado. He was commissioned in 2017 after graduating from the U.S. Naval Academy, and holds a Bachelor of Science Degree in Systems Engineering. Following initial flight training at Training Squadron FOUR (VT-4) in Pensacola, Florida, and earned his Wings of Gold in August 2018. He selected follow on training in the E-2C Hawkeye at Airborne Command &amp; Control Squadron (VAW) 120 in Norfolk, Virginia. LT Hahm then reported to VAW-116 in Point Mugu, California in November 2019. With the “Sun King” he completed an INDOPACOM and CENTCOM deployment in 2020 and an INDOPACOM deployment in 2023. While in VAW-116 he served as the squadron’s Legal Officer and Avionics Division Officer. In April 2023, LT Hahm reported to the VAW-120 “Greyhawks” in Norfolk, Virginia where he served as the Legal Officer and NFO Training Officer, where he has instructed over 120 of the next generation of Naval Flight Officers in the E-2 C/D Hawkeye. LT Hahm has accumulated over 1,100 flight hours in the E-2 Hawkeye. His awards include the Afghanistan Campaign Medal, Operation Inherent Resolve Medal, Navy and Marine Corps Achievement Medal, and various unit and service awards. Upon completion of his Naval service, he aspires to earn his MBA and join a top consulting firm.
+
+## Miguel Moravec
+### Board Member
+
+![Miguel Moravec](/miguel.jpg)
+
+Miguel Moravec is a non-profit professional with years of campaign experience. Miguel's advocacy work has been featured in CNN, the Washington Post, and Reuters.
 
 Our board members, united by their naval background and shared dedication to aviation, work tirelessly to ensure that Wings of Tomorrow provides the best guidance, support, and opportunities for young people interested in pursuing careers in aviation. Together, they lead our organization with integrity, passion, and a commitment to excellence, paving the way for the next generation to soar.
 
