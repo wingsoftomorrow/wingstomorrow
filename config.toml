@@ -27,7 +27,7 @@ DefaultContentLanguageInSubdir = true
 	weight = 2
 
     [[languages.en.menu.main]]
-	name = "Get Involved"
+	name = "Become a Mentee"
 	url = "https://forms.gle/kZbvfH2sSf6EMg9X9"
 	weight = 3
 	
