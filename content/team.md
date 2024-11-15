@@ -69,7 +69,7 @@ Growing up as a military brat, Zach was lucky enough to have mentors who guided 
 ![Miguel Moravec](/miguel.PNG)
 
 Miguel Moravec is a non-profit professional with years of campaign and policy experience. Miguel's advocacy has taken him from congressional hearings to main stream media features, including CNN and the Washington Post.
-As a young man, Miguel completed 2 years of training at the US Naval Academy. To this day, he has a special appreciation for the sacrifice and courage of our nation's naval aviators.
+As a young man, Miguel completed 2 years of training at the US Naval Academy. To this day, he has a special appreciation for the sacrifice and courage of our nation's naval aviators. He now works at an energy non-profit.
 
 ------
 
