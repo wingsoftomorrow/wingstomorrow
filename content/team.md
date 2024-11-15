@@ -10,7 +10,7 @@ type: about
 At Wings of Tomorrow, our Board of Directors is composed of distinguished naval aviators and industry professionals who bring a wealth of experience, passion, and leadership to our mission of mentoring the next generation of aviation professionals.
 
 ## Lieutenant Andrew B. Coen
-### CEO
+### Chief Executive Officer
 
 ![Andrew Coen](/andrew.jpg)
 
@@ -19,7 +19,7 @@ Andy Coen is from the small Gold Rush town of Placerville, CA. He graduated from
 Personal mentorship has been pivotal throughout Andy’s career. His mentors empowered him to break out of his rural hometown to lead the nation’s best and  brightest airmen to accomplish distinguished aviation missions around the world. In 2024, Andy was inspired to give back to the aviation community by empowering the next generation of aviators through the power of mentorship. 
 
 ## Lieutenant Avery Nwokike
-### Board Member
+### Chief Development Officer
 
 ![Avery Nwokike](/avery.PNG)
 
