@@ -21,7 +21,7 @@ DefaultContentLanguageInSubdir = true
         url = "about"
 	weight = 1
 		
-	[[languages.en.menu.main]]
+    [[languages.en.menu.main]]
 	name = "Team"
 	url = "team"
 	weight = 2
@@ -30,6 +30,11 @@ DefaultContentLanguageInSubdir = true
 	name = "Become a Mentee"
 	url = "https://forms.gle/kZbvfH2sSf6EMg9X9"
 	weight = 3
+ 
+     [[languages.en.menu.main]]
+	name = "Become a Mentor"
+	url = "https://docs.google.com/forms/d/e/1FAIpQLSdjauGcTPrN4O9Xa5uoC-N9-J-RBHemK-z0wMA5omZUKTlksw/viewform?usp=sf_link
+	weight = 4
 	
 [params]
   # Enable the darkmode toggle in header
