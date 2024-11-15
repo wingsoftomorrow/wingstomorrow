@@ -23,7 +23,7 @@ Personal mentorship has been pivotal throughout Andy’s career. His mentors emp
 
 ![Avery Nwokike](/avery.PNG)
 
-Lieutenant Avery C. Nwokike is a native of Charleston, SC. Hereceived his commission in 2017 upon graduating from the U.S. Naval Academy where he earned a Bachelor of Science degree in Ocean Engineering. Following graduation he reported to Naval Air Station (NAS) Pensacola, Florida, for Aviation Preflight Indoctrination.
+Lieutenant Avery C. Nwokike is a native of Charleston, SC. He received his commission in 2017 upon graduating from the U.S. Naval Academy where he earned a Bachelor of Science degree in Ocean Engineering. Following graduation he reported to Naval Air Station (NAS) Pensacola, Florida, for Aviation Preflight Indoctrination.
 
 Nwokike graduated from Training Squadron (VT) 2 at NAS Whiting Field, Florida and earned his “Wings of Gold” in 2019 with VT-31, NAS Corpus Christi, Texas. He then reported to the “Pro’s Nest” of Patrol Squadron (VP) 30 aboard NAS Jacksonville, Florida.
 
