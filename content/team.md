@@ -1,7 +1,7 @@
 ---
 author: Wings of Tomorrow
 title: Our team
-date: 2024-07-15
+date: 2024-07-16
 description:
 keywords: ["about-us", "about-hugo", "contact"]
 type: about
