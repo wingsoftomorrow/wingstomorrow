@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = true
       introTitle = "Empowering the next generation of aviators"
       introSubtitle = "Our mission is to close the opportunity gap in aviation by providing high-potential students with personalized mentorship and scholarships for students from economically disadvantaged backgrounds."
       introPhoto = "/logo.jpg"
-      logo = "/logo.jpg"
+      logo = "/black_logo_full.png"
 
     [[languages.en.menu.main]]
         name = "About"
