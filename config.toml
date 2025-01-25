@@ -62,7 +62,7 @@ DefaultContentLanguageInSubdir = true
 
 [params.homepage.social]
   # Global params xommon for both languages
-  title = "Find a mentor now"
+  title = "Find a Wingman now:"
   description = "Click 'Become a Mentee' above."
 
 
