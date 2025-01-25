@@ -11,8 +11,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Empowering the next generation of aviators"
-      introSubtitle = "Our mission is to close the opportunity gap in aviation by providing high-potential students with personalized mentorship and scholarships for students from economically disadvantaged backgrounds."
+      introTitle = "Welcome to Wings of Tomorrow!"
+      introSubtitle = "A platform for aspiring aviators and flight school students to connect with fleet aviators for mentorship and professional development."
       introPhoto = "/logo.jpg"
       logo = "/black_logo_full.png"
 
@@ -26,10 +26,20 @@ DefaultContentLanguageInSubdir = true
 	url = "team"
 	weight = 2
 
-    [[languages.en.menu.main]]
+	[[languages.en.menu.main]]
 	name = "Become a Mentee"
 	url = "https://forms.gle/kZbvfH2sSf6EMg9X9"
 	weight = 3
+
+	[[languages.en.menu.main]]
+	name = "Become a Wingman"
+	url = "https://forms.gle/Sz6jnuMYNUMWWCPZ6"
+	weight = 4
+	
+    [[languages.en.menu.main]]
+	name = "FAQs"
+	url = "faqs"
+	weight = 5
 	
 [params]
   # Enable the darkmode toggle in header
@@ -39,7 +49,7 @@ DefaultContentLanguageInSubdir = true
   enableSearch = false
 
   # Custom copyright - optional
-  ### copyright = "Copyright © 2024 - Wings of Tomorrow · All rights reserved"
+  ### copyright = "Wings of Tomorrow · All rights reserved"
   ### favicon = "/logo.jpg"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -52,8 +62,8 @@ DefaultContentLanguageInSubdir = true
 
 [params.homepage.social]
   # Global params xommon for both languages
-  title = "Learn more"
-  description = "Click on the links above to see how you can get involved"
+  title = "Find a mentor now"
+  description = "Click 'Become a Mentee' above."
 
 
 

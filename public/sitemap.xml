@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wings-of-tomorrow.org/team/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://wings-of-tomorrow.org/about/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wings-of-tomorrow.org/faqs/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wings-of-tomorrow.org/team/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wings-of-tomorrow.org/blog/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>

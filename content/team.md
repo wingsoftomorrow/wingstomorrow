@@ -1,18 +1,18 @@
 ---
 author: Wings of Tomorrow
 title: Our team
-date: 2024-07-16
+date: 2025-01-01
 description:
 keywords: ["about-us", "about-hugo", "contact"]
 type: about
 ---
 
-At Wings of Tomorrow, our Board of Directors is composed of distinguished naval aviators and industry professionals who bring a wealth of experience, passion, and leadership to our mission of mentoring the next generation of aviation professionals.
+At Wings of Tomorrow, our leadership is composed of distinguished naval aviators and industry professionals who bring a wealth of experience, passion, and leadership to our mission of mentoring the next generation of aviation professionals.
 
-## Lieutenant Andrew B. Coen
-### Chief Executive Officer
+## Lieutenant Andy B. Coen
+### Founder and CEO
 
-![Andrew Coen](/andrew.jpg)
+![Andy Coen](/andrew.jpg)
 
 Andy Coen is from the small Gold Rush town of Placerville, CA. He graduated from the US Naval Academy in 2017 with a B.S. in Ocean Engineering as a Burke Scholar. He was the top graduate in flight school and earned his Wings of Gold as a Naval Flight Officer in 2019. Since then, he has led aviation teams in fifteen countries throughout the Arctic Circle, the Middle East, Africa, and Central America onboard the Navy’s premier intelligence aircraft, the P-8A Poseidon. 
 
@@ -25,22 +25,22 @@ Personal mentorship has been pivotal throughout Andy’s career. His mentors emp
 
 Lieutenant Avery C. Nwokike is a native of Charleston, SC. He received his commission in 2017 upon graduating from the U.S. Naval Academy where he earned a Bachelor of Science degree in Ocean Engineering. Following graduation he reported to Naval Air Station (NAS) Pensacola, Florida, for Aviation Preflight Indoctrination.
 
-Nwokike graduated from Training Squadron (VT) 2 at NAS Whiting Field, Florida and earned his “Wings of Gold” in 2019 with VT-31, NAS Corpus Christi, Texas. He then reported to the “Pro’s Nest” of Patrol Squadron (VP) 30 aboard NAS Jacksonville, Florida.
+Avery graduated from Training Squadron (VT) 2 at NAS Whiting Field, Florida and earned his “Wings of Gold” in 2019 with VT-31, NAS Corpus Christi, Texas. He then reported to the “Pro’s Nest” of Patrol Squadron (VP) 30 aboard NAS Jacksonville, Florida.
 
 In 2020, he joined the “World Watchers” of Fleet Air Reconnaissance Squadron (VQ) 1 aboard NAS Whidbey Islnd, Washington. While at VQ-1 he qualified as an EP-3E Electronic Warfare Aircraft Commander (EWAC), Mission Commander, and Instructor Pilot while completing deployments to 5th, 6th, and 7th Fleet, conducting Intelligence, Surveillance, and Reconnaissance missions in support of Theater, Fleet, and Task Force Commander tasking.
 
 He reported to Scientific Development Squadron (VXS) 1 in September 2023 and currently serves as the Safety Officer, Aviation Safety Officer, and P-3C Naval Air Training and Operating Procedures Standardization (NATOPS) Instructor. He also qualified as a RC-12M Transport Plane Commander, and assists with the Command Fitness Leader and Command Finance Specialist programs. 
 
-Nwokike has accumulated over 1,350 hours in the EP-3E Aries, P-3C Orion, and RC-12M Huron. His personal awards include the Navy and Marine Corps Achievement Medal and various other unit and campaign awards.
+Avery has accumulated over 1,350 hours in the EP-3E Aries, P-3C Orion, and RC-12M Huron. His personal awards include the Navy and Marine Corps Achievement Medal and various other unit and campaign awards.
 ## Lieutenant Yanni Vrotsos
-### Board Member
+### Chief Operations Officer
 
 ![Yanni Vrotsos](/yanni.PNG)
 
 Yanni Vrotsos is from Titusville, Florida. He graduated from the US Naval Academy in 2017 with a B.S. in Ocean Engineering. He earned his Wings of Gold as a Pilot in April of 2019 and was stationed out of NAS Whidbey Island for his Sea Tour flying the P-8A Poseidon. He has nearly 100 hours of Aircraft Commander time and completed deployments and detachments all over the world, including various counties in Europe, the Middle East, and Africa. He is currently on his Shore Tour stationed in Washington, DC and enthusiastically joined Wings of Tomorrow in order to provide valuable insight that he wished he received before Flight School. 
 
 ## Lieutenant Changdae Hahm
-### Board Member
+### Director, Mentorship
 
 ![Changdae Hahm](/changdae.PNG)
 
@@ -64,16 +64,12 @@ Babs graduated from the United States Naval Academy in 2017 with a B.S. in Econo
 Growing up as a military brat, Zach was lucky enough to have mentors who guided him into the world of aviation. These mentors inspire him to this day to not only lead but help the next generation of aviation professionals. He can't wait to see a future where the skies are filled with diverse and talented individuals who are as passionate about aviation and service as he is. 
 
 ## Miguel Moravec
-### Board Member
+### Chief Technology Officer, Co-Founder
 
 ![Miguel Moravec](/miguel.PNG)
 
 Miguel Moravec is a non-profit professional with years of campaign and policy experience. Miguel's advocacy has taken him from congressional hearings to main stream media features, including CNN and the Washington Post.
 As a young man, Miguel completed 2 years of training at the US Naval Academy. To this day, he has a special appreciation for the sacrifice and courage of our nation's naval aviators. He now works at an energy non-profit.
-
-------
-
-Our board members, united by their naval background and shared dedication to aviation, work tirelessly to ensure that Wings of Tomorrow provides the best guidance, support, and opportunities for young people interested in pursuing careers in aviation. Together, they lead our organization with integrity, passion, and a commitment to excellence, paving the way for the next generation to soar.
 
 
 
